@@ -39,7 +39,44 @@ La división de 20 entre 5 es: 4.0
 El resto de 20 entre 5 es: 0
 ```
 
-### 2️⃣ **Estructuras de Control**
+### 2️⃣ **Excepciones Avanzadas** ⭐ (Priority Medium)
+
+📄 `AdvancedExceptionHandling.java`
+
+Manejo avanzado y profesional de excepciones:
+
+- **Multi-catch**: Capturar múltiples excepciones en un catch (Java 7+)
+- **Exception chaining**: Encadenar excepciones (causa y efecto)
+- **Re-lanzamiento**: Re-lanzar excepciones con contexto adicional
+- **Finally block**: Ejecución garantizada de código de limpieza
+- **Try-with-resources**: Cierre automático de recursos (Java 7+)
+- **Stack trace**: Análisis de la pila de llamadas
+- **Custom exceptions avanzadas**: Excepciones personalizadas con información adicional
+- **Excepciones suprimidas**: Manejo de múltiples errores simultáneos
+
+**Ejemplo: Multi-catch**
+
+```java
+try {
+    // Código que puede fallar
+} catch (ArrayIndexOutOfBoundsException | NullPointerException | ArithmeticException e) {
+    // Un único catch para múltiples tipos
+    System.out.println("Error: " + e.getClass().getSimpleName());
+}
+```
+
+**Ejemplo: Exception chaining**
+
+```java
+try {
+    int valor = Integer.parseInt("abc");
+} catch (NumberFormatException e) {
+    // Encadenar excepción de bajo nivel a de aplicación
+    throw new RuntimeException("Error procesando entrada", e);
+}
+```
+
+### 3️⃣ **Estructuras de Control**
 
 📂 `estructuras_control/`
 
