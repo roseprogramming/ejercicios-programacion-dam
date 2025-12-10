@@ -5,7 +5,7 @@ package com.dam.programacion.projects.animals;
  * Extiende de Animal y representa animales acuáticos que viven en el agua.
  * Los peces no vuelan ni picotean, solo nadan.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Fish extends Animal {

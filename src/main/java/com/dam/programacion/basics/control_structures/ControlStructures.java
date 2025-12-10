@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Clase que demuestra el uso de estructuras de control en Java.
  * Incluye ejemplos de if-else, switch, while, do-while y for.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class ControlStructures {

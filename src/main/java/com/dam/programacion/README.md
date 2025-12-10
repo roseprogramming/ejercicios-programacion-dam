@@ -438,7 +438,8 @@ Este proyecto está bajo licencia **MIT** - Úsalo libremente para aprender.
 
 ## 👨‍🎓 Autor
 
-**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma
+**Andrea Gicela Bravo Landeta** (@roseprogramming)
+**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma en ThePower
 
 ---
 

@@ -4,7 +4,7 @@ package com.dam.programacion.basics.operators;
  * Clase que demuestra el uso de operadores en Java.
  * Incluye operadores aritméticos, lógicos, relacionales y de asignación.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Operators {

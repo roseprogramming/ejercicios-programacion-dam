@@ -14,7 +14,7 @@ import com.dam.programacion.poo.inheritance.models.Puppy;
  * - Métodos abstractos: Implementación de métodos abstractos en subclases
  * - Comportamiento específico: Cada animal tiene comportamientos únicos
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Main {

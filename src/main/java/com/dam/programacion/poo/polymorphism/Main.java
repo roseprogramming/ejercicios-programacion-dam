@@ -14,7 +14,7 @@ import java.util.List;
  * Ejemplo clásico: Una lista de figuras geométricas donde cada una
  * implementa de forma diferente calcularArea() y calcularPerimetro()
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Main {

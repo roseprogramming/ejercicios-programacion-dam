@@ -11,7 +11,7 @@ package com.dam.programacion.poo.basic_classes;
  * - nivelHambre: Nivel de hambre (0-100)
  * - estadoAnimo: Estado emocional actual
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Dog {

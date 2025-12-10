@@ -171,6 +171,6 @@ Este proyecto es ideal para aprender:
 
 ---
 
-**Autor**: Proyecto educativo para DAM (Desarrollo de Aplicaciones Multiplataforma)  
+**Autor**: Andrea Gicela Bravo Landeta (@roseprogramming) - Proyecto educativo para DAM en ThePower  
 **Versión**: Java 21  
 **Fecha**: Diciembre 2025

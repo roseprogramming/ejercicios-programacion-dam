@@ -12,7 +12,7 @@ package com.dam.programacion.poo.inheritance.models;
  * - edad: Edad en años
  * - energia: Nivel de energía (0-100)
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public abstract class Animal {

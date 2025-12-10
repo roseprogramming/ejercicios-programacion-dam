@@ -12,7 +12,7 @@ import java.util.Scanner;
  * - Stack trace personalizado
  * - Re-lanzamiento de excepciones
  * 
- * @author Profesor DAM
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class AdvancedExceptionHandling {

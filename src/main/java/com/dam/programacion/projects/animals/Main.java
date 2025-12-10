@@ -4,7 +4,7 @@ package com.dam.programacion.projects.animals;
  * Clase principal que demuestra el uso del sistema de animales.
  * Muestra polimorfismo, herencia e interfaces en acción.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Main {

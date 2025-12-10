@@ -5,7 +5,7 @@ package com.dam.programacion.poo.polymorphism;
  * Una misma interfaz (Figura) es implementada de diferentes formas
  * por diferentes clases especializadas.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public abstract class Shape {

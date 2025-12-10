@@ -11,7 +11,7 @@ package com.dam.programacion.poo.inheritance.models;
  * - Cantar: Emite melodías
  * - Anidar: Construye nidos
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Bird extends Animal {

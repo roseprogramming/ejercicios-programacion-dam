@@ -16,7 +16,7 @@ import java.util.Scanner;
  * - Ver estado de los perros
  * - Listar todos los perros
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Main {

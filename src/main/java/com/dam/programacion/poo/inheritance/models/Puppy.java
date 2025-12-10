@@ -9,7 +9,7 @@ package com.dam.programacion.poo.inheritance.models;
  * - Jugar: Interacciona de diferentes formas con otros animales
  * - Traer: Comportamiento específico de los perros
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Puppy extends Animal {

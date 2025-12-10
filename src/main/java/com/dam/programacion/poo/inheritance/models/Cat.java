@@ -12,7 +12,7 @@ import java.util.Random;
  * - Acicalar: Comportamiento específico del gato
  * - Humor variable: Afecta su disposición a jugar
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 2.0
  */
 public class Cat extends Animal {

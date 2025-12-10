@@ -4,7 +4,7 @@ package com.dam.programacion.poo.polymorphism;
  * Clase que representa un círculo.
  * Implementa la clase abstracta Figura demostrando polimorfismo.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Circle extends Shape {

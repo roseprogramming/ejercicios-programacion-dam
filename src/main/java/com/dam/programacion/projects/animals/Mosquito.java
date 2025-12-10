@@ -5,7 +5,7 @@ package com.dam.programacion.projects.animals;
  * Extiende de Animal e implementa las interfaces Flyable y Picotear.
  * Los mosquitos pueden volar, picar para alimentarse y son conocidos por ser molestos.
  * 
- * @author [Tu nombre]
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class Mosquito extends Animal implements Flyable, Peck {
