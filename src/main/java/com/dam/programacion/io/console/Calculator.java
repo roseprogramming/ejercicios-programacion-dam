@@ -1,16 +1,20 @@
-package com.dam.programacion.io;
+package com.dam.programacion.io.console;
 
 import java.util.Scanner;
 
 /**
- * Clase que demuestra entrada y salida de datos en Java.
- * Implementa una calculadora simple que realiza operaciones básicas.
- * Muestra el uso de Scanner para entrada y System.out para salida.
+ * Entrada/Salida básica por consola - Calculadora interactiva.
  * 
- * @author [Tu nombre]
+ * Demuestra:
+ * - Scanner para lectura de entrada del usuario
+ * - System.out para salida formateada
+ * - Validación de entrada (InputMismatchException)
+ * - Try-catch-finally para gestión de recursos
+ * 
+ * @author Profesor DAM
  * @version 2.0
  */
-public class Main {
+public class Calculator {
     
     /**
      * Realiza la suma de dos números y muestra el resultado.

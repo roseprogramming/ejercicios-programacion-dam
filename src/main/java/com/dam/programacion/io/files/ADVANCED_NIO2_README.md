@@ -8,14 +8,14 @@ Este módulo cubre el API moderno de I/O de Java (NIO.2), introducido en Java 7,
 
 ### API java.nio.file vs java.io
 
-| Característica | Antiguo (java.io) | Moderno (java.nio.file) |
-|---|---|---|
-| **Clase base** | File | Path (interfaz) / Files (utilidades) |
-| **Rutas** | Manipulación de strings | Abstracción independiente del SO |
-| **Atributos** | Limitados | Completos (BasicFileAttributes) |
-| **Excepciones** | Retorno de boolean | IOException explícito |
-| **Operaciones masivas** | Lento | Optimizado con Streams |
-| **Recursos** | Manual .close() | Try-with-resources automático |
+| Característica          | Antiguo (java.io)       | Moderno (java.nio.file)              |
+| ----------------------- | ----------------------- | ------------------------------------ |
+| **Clase base**          | File                    | Path (interfaz) / Files (utilidades) |
+| **Rutas**               | Manipulación de strings | Abstracción independiente del SO     |
+| **Atributos**           | Limitados               | Completos (BasicFileAttributes)      |
+| **Excepciones**         | Retorno de boolean      | IOException explícito                |
+| **Operaciones masivas** | Lento                   | Optimizado con Streams               |
+| **Recursos**            | Manual .close()         | Try-with-resources automático        |
 
 ## 📚 Temas Cubiertos
 
@@ -30,6 +30,7 @@ System.out.println(archivo.toAbsolutePath());     // Ruta completa
 ```
 
 **Ventajas:**
+
 - Independencia de separadores (/ vs \)
 - Operaciones encadenables
 - Mejor rendimiento
@@ -46,6 +47,7 @@ System.out.println(attrs.size());              // Tamaño en bytes
 ```
 
 **Información disponible:**
+
 - Fechas de creación, modificación, acceso
 - Tamaño del archivo
 - Permisos (legible, escribible, ejecutable)
@@ -64,6 +66,7 @@ try (DirectoryStream<Path> stream = Files.newDirectoryStream(directorio)) {
 ```
 
 **Beneficios:**
+
 - Eficiente con directorios grandes
 - Cierre automático (try-with-resources)
 - Filtrado opcional
@@ -80,6 +83,7 @@ try (Stream<Path> paths = Files.walk(directorio)) {
 ```
 
 **Casos de uso:**
+
 - Búsqueda de archivos por extensión
 - Análisis recursivo de directorios
 - Estadísticas de carpetas
@@ -147,11 +151,11 @@ try (Stream<Path> paths = Files.walk(directorio)) {
 
 ## ⚡ Comparación de rendimiento
 
-| Operación | java.io | java.nio.file |
-|-----------|---------|---------------|
-| Listar directorio (1000 archivos) | 45ms | 12ms |
-| Copiar archivo (100MB) | 250ms | 80ms |
-| Acceso a atributos | limitado | completo |
+| Operación                         | java.io  | java.nio.file |
+| --------------------------------- | -------- | ------------- |
+| Listar directorio (1000 archivos) | 45ms     | 12ms          |
+| Copiar archivo (100MB)            | 250ms    | 80ms          |
+| Acceso a atributos                | limitado | completo      |
 
 **Conclusión:** Siempre usar java.nio.file en código nuevo.
 
