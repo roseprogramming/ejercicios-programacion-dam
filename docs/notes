@@ -1,0 +1,44 @@
+# Apuntes del Proyecto Ejercicios Programación DAM
+
+## Introducción
+
+Este proyecto tiene como objetivo proporcionar una serie de ejercicios y prácticas en Java, organizados en diferentes categorías para facilitar el aprendizaje y la comprensión de conceptos fundamentales de programación.
+
+## Estructura del Proyecto
+
+El proyecto está organizado de la siguiente manera:
+
+- **pom.xml**: Archivo de configuración de Maven que gestiona las dependencias y la construcción del proyecto.
+- **README.md**: Documentación del proyecto que incluye instrucciones de instalación y uso.
+- **.gitignore**: Especifica los archivos y directorios que deben ser ignorados por Git.
+- **src/**: Contiene el código fuente de la aplicación, organizado en paquetes según los conceptos de programación.
+- **docs/**: Incluye apuntes y prácticas relacionadas con el proyecto.
+
+## Contenido de las Carpetas
+
+- **fundamentos/**: Conceptos básicos de programación.
+  - **operadores/**: Clases relacionadas con operadores en Java.
+  - **estructuras_control/**: Clases que implementan estructuras de control.
+  - **entrada_salida/**: Clases que manejan la entrada y salida de datos.
+- **arrays/**: Manejo de arreglos.
+  - **one_dimensional/**: Clases para arreglos unidimensionales.
+  - **bidimensionales/**: Clases para arreglos bidimensionales.
+- **poo/**: Programación orientada a objetos.
+  - **clases_basicas/**: Clases que representan conceptos básicos de POO.
+  - **herencia/**: Clases que demuestran el concepto de herencia.
+  - **polymorphism/**: Clases que demuestran el polimorfismo.
+- **proyectos/**: Proyectos específicos.
+  - **urgencias/**: Clases relacionadas con un proyecto de urgencias.
+  - **animales/**: Clases que representan diferentes animales.
+  - **carreras/**: Clases relacionadas con un proyecto de carreras.
+  - **superheroes/**: Clases que representan diferentes superhéroes.
+
+## Notas Adicionales
+
+- Asegúrate de seguir las mejores prácticas de programación y documentación al desarrollar las clases y métodos.
+- Utiliza comentarios en el código para explicar la lógica y el propósito de cada sección.
+- Mantén el repositorio actualizado y realiza commits frecuentes para reflejar los cambios en el proyecto.
+
+## Conclusión
+
+Este proyecto es una excelente oportunidad para practicar y mejorar tus habilidades en programación Java. A medida que avances, no dudes en agregar más ejercicios y proyectos para enriquecer tu aprendizaje.
