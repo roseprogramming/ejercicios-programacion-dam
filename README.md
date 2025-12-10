@@ -412,8 +412,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ## 👨‍💻 Autor
 
-Andrea Gicela Bravo Landeta @roseprogramming en Github
-**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma en ThePower
+Andrea Gicela Bravo Landeta
+@roseprogramming en Github
+**Estudiante de Desarrollo de Aplicaciones Multiplataforma en ThePower**
 
 Creado como:
 
