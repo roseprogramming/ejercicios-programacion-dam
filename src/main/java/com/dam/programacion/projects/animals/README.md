@@ -308,13 +308,12 @@ Posibles extensiones del proyecto:
 ## 👨‍💻 Autor
 
 **Andrea Gicela Bravo Landeta** (@roseprogramming)
-**Estudiante de DAM en ThePower**
-
-Proyecto desarrollado como parte del ciclo formativo **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Estudiante de **DAM** - Desarrollo de Aplicaciones Multiplataforma
+**ThePower** - Centro de Formación Profesional
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto con fines educativos.
+Este proyecto se distribuye bajo **Licencia de Uso Libre** - Libre para usar, modificar y distribuir con propósitos educativos y profesionales.
 
 ---
 
