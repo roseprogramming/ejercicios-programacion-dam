@@ -171,6 +171,6 @@ Este proyecto es ideal para aprender:
 
 ---
 
-**Autor**: Andrea Gicela Bravo Landeta (@roseprogramming) - Proyecto educativo para DAM en ThePower  
-**Versión**: Java 21  
-**Fecha**: Diciembre 2025
+**Autor**: Andrea Gicela Bravo Landeta (@roseprogramming)  
+**Estudiante de DAM** - Desarrollo de Aplicaciones Multiplataforma en ThePower  
+**Versión**: Java 21 | **Fecha**: Diciembre 2025

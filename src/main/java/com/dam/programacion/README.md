@@ -434,12 +434,13 @@ Si encuentras errores o tienes mejoras:
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia **MIT** - Úsalo libremente para aprender.
+Este proyecto se distribuye bajo **Licencia de Uso Libre** - Libre para usar, modificar y distribuir con propósitos educativos y profesionales.
 
-## 👨‍🎓 Autor
+## 👨‍💻 Autor
 
 **Andrea Gicela Bravo Landeta** (@roseprogramming)
-**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma en ThePower
+Estudiante de **DAM** - Desarrollo de Aplicaciones Multiplataforma
+**ThePower** - Centro de Formación Profesional
 
 ---
 

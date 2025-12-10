@@ -400,20 +400,13 @@ Después de completar todo, deberías poder:
 
 ## 📄 Licencia
 
-**MIT License** - Libre para usar con propósitos educativos y profesionales
-
-```
-MIT License
-
-Copyright (c) 2024 Estudiante de DAM
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-```
+Este proyecto se distribuye bajo **Licencia de Uso Libre** - Libre para usar, modificar y distribuir con propósitos educativos y profesionales.
 
 ## 👨‍💻 Autor
 
-Andrea Gicela Bravo Landeta @roseprogramming en Github
-**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma en ThePower
+**Andrea Gicela Bravo Landeta** (@roseprogramming)  
+Estudiante de **DAM** - Desarrollo de Aplicaciones Multiplataforma  
+**PROMETEO by thePower**
 
 Creado como:
 
