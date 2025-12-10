@@ -15,7 +15,7 @@ import java.util.stream.Stream;
  * - Operaciones de archivo modernos
  * - Comparación antiguo vs nuevo API
  * 
- * @author Profesor DAM
+ * @author Andrea Gicela Bravo Landeta (Github: @roseprogramming) Estudiante de DAM en ThePower
  * @version 1.0
  */
 public class AdvancedFileOperations {

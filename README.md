@@ -2,7 +2,7 @@
 
 ## 📖 Bienvenida
 
-Este es un **repositorio completo de ejercicios de programación en Java** diseñado como material educativo y portfolio para demostrador el progreso realizado en la asignatura de Programación durante el primer curso del FP Desarrollo de Aplicaciones Multiplataforma. Contiene **progresión estructurada desde fundamentos hasta proyectos integrales profesionales**.
+Este es un **repositorio completo de ejercicios de programación en Java** diseñado como material educativo y portfolio para demostrar el progreso realizado en la asignatura de Programación durante el primer curso del FP Desarrollo de Aplicaciones Multiplataforma en **ThePower**. Reúne **todos los ejercicios, proyectos y entregables del curso**, estructurados y organizados bajo una arquitectura profesional que evidencia la **progresión desde fundamentos hasta proyectos integrales avanzados**.
 
 ## 🌟 Características Destacadas
 
@@ -244,24 +244,32 @@ Cada módulo contiene documentación completa:
 4. [`src/main/java/com/dam/programacion/poo/README.md`](src/main/java/com/dam/programacion/poo/README.md)
 5. [`src/main/java/com/dam/programacion/proyectos/README.md`](src/main/java/com/dam/programacion/proyectos/README.md)
 
-## 🎯 Ruta de Aprendizaje Recomendada
+## 🎯 Ruta de Aprendizaje (9 Meses de Curso)
 
 ```
-SEMANA 1: Fundamentos
+MES 1: Fundamentos (6 semanas)
 ├─ Entrada/Salida (Scanner, System.out)
 ├─ Operadores (aritméticos, lógicos, bit a bit)
 └─ Estructuras de Control (if/switch/bucles)
    ↓
-SEMANA 2: Estructuras de Datos
+MES 2: Estructuras de Datos (4 semanas)
 ├─ Arrays 1D (vectores)
-└─ Arrays 2D (matrices)
+├─ Arrays 2D (matrices)
+└─ Búsqueda y ordenamiento
    ↓
-SEMANA 3-4: Programación Orientada a Objetos
+MESES 3-4: Programación Orientada a Objetos (9 semanas)
 ├─ Clases Básicas (encapsulación, getters/setters)
 ├─ Herencia (jerarquías de clases)
-└─ Polimorfismo (interfaces, clases abstractas)
+├─ Polimorfismo (interfaces, clases abstractas)
+└─ Patrones de Diseño (Strategy, Template Method, Factory)
    ↓
-SEMANA 5-6: Proyectos Integrales
+MESES 5-6: Collections y APIs Avanzadas (9 semanas)
+├─ Colecciones (List, Set, Map, Queue, Deque)
+├─ Iteración y Streams API
+├─ Excepciones y Manejo de Errores
+└─ I/O y Operaciones de Archivo (NIO.2)
+   ↓
+MESES 7-9: Proyectos Integrales (13 semanas)
 ├─ Superhéroes (básico: polimorfismo simple)
 ├─ Animales (básico: jerarquía de clases)
 ├─ Carreras (intermedio: herencia multinivel)
@@ -405,7 +413,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ## 👨‍💻 Autor
 
 Andrea Gicela Bravo Landeta @roseprogramming en Github
-**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma
+**Estudiante de DAM** - Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma en ThePower
 
 Creado como:
 
